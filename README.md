@@ -1,6 +1,9 @@
 Team Members :
+
 Nitin Gaurav - PES1UG21CS826
+
 Nikita patgar - PES1UG21CS825
+
 Titeersha ghatak chowdhury - PES1UG21CS834
 
 ## Problem Statement
